@@ -1,0 +1,9 @@
+.claude/
+CLAUDE.md
+
+node_modules/
+dist/
+.next/
+
+.env
+.env.*
